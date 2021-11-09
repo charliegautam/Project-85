@@ -85,6 +85,7 @@ function down()
         console.log("When down arrow is pressed , x="+greencar_x+",y ="+greencar_y);
         uploadbackground();
         uploadgreencar();
+	}
 }
 
 function left()
@@ -95,6 +96,7 @@ function left()
         console.log("When up arrow is pressed , x="+greencar_x+",y ="+greencar_y);
         uploadbackground();
         uploadgreencar();
+	}
 }
 
 function right()
